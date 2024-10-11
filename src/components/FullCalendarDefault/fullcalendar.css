@@ -1,0 +1,9 @@
+.fc-event {
+    cursor: pointer;
+    padding: 2px 5px;
+    border-radius: 3px;
+  }
+  
+  .fc-day-today {
+    background-color: #f7f7f7 !important;
+  }
